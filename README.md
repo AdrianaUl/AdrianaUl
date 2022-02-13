@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science, Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning Computer Science, IoT
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by email> adria_pers@yahoo.com
+- 📫 How to reach me by email> adria_pers@yahoo.com; au222fd@student.lnu.se
 
 <!---
 AdrianaUl/AdrianaUl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
