@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdrianaUl
-- 👀 I’m interested in DevOps Engineering, Artificial Intelligence and Data Science
+- 👀 I’m interested in Artificial Intelligence and Quantum Computing.
 - 🌱 I’m currently learning Generative AI and Agentic AI.
 - 💞️ I’m looking to collaborate on GenAI & Agentic AI.
 My LinkedIn profile: https://www.linkedin.com/in/adriana-ulici-801a1a7b/
